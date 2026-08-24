@@ -1,0 +1,340 @@
+[
+  {
+    "hotelId": "HTL001",
+    "hotelName": "Sunrise Grand Hotel",
+    "city": "Delhi",
+    "category": "5_STAR",
+    "address": "Connaught Place, New Delhi",
+    "roomType": "Deluxe Room",
+    "pricePerNight": 12500.00,
+    "availableRooms": 8,
+    "amenities": "WiFi, Breakfast, Gym, Pool, Business Center"
+  },
+  {
+    "hotelId": "HTL002",
+    "hotelName": "Business Inn Delhi",
+    "city": "Delhi",
+    "category": "3_STAR",
+    "address": "Saket, New Delhi",
+    "roomType": "Executive Room",
+    "pricePerNight": 6500.00,
+    "availableRooms": 15,
+    "amenities": "WiFi, Breakfast, Gym, Conference Room"
+  },
+  {
+    "hotelId": "HTL003",
+    "hotelName": "City Comfort Delhi",
+    "city": "Delhi",
+    "category": "2_STAR",
+    "address": "Karol Bagh, New Delhi",
+    "roomType": "Standard Room",
+    "pricePerNight": 4200.00,
+    "availableRooms": 20,
+    "amenities": "WiFi, Breakfast, Parking"
+  },
+  {
+    "hotelId": "HTL004",
+    "hotelName": "Pune Central Hotel",
+    "city": "Pune",
+    "category": "4_STAR",
+    "address": "Shivajinagar, Pune",
+    "roomType": "Premium Room",
+    "pricePerNight": 8500.00,
+    "availableRooms": 10,
+    "amenities": "WiFi, Breakfast, Gym, Pool"
+  },
+  {
+    "hotelId": "HTL005",
+    "hotelName": "Pune Business Stay",
+    "city": "Pune",
+    "category": "3_STAR",
+    "address": "Hinjewadi, Pune",
+    "roomType": "Executive Room",
+    "pricePerNight": 5800.00,
+    "availableRooms": 12,
+    "amenities": "WiFi, Breakfast, Parking, Business Center"
+  },
+  {
+    "hotelId": "HTL006",
+    "hotelName": "Mumbai Corporate Hotel",
+    "city": "Mumbai",
+    "category": "5_STAR",
+    "address": "Andheri East, Mumbai",
+    "roomType": "Deluxe Room",
+    "pricePerNight": 14000.00,
+    "availableRooms": 6,
+    "amenities": "WiFi, Breakfast, Gym, Pool, Business Center"
+  },
+
+  {
+    "hotelId": "HTL007",
+    "hotelName": "Bangalore Tech Park Hotel",
+    "city": "Bangalore",
+    "category": "5_STAR",
+    "address": "Whitefield, Bangalore",
+    "roomType": "Deluxe Room",
+    "pricePerNight": 13500.00,
+    "availableRooms": 9,
+    "amenities": "WiFi, Breakfast, Gym, Pool, Business Center"
+  },
+  {
+    "hotelId": "HTL008",
+    "hotelName": "Bangalore Business Suites",
+    "city": "Bangalore",
+    "category": "4_STAR",
+    "address": "Koramangala, Bangalore",
+    "roomType": "Business Suite",
+    "pricePerNight": 9000.00,
+    "availableRooms": 14,
+    "amenities": "WiFi, Breakfast, Gym, Conference Room"
+  },
+  {
+    "hotelId": "HTL009",
+    "hotelName": "Bangalore Comfort Inn",
+    "city": "Bangalore",
+    "category": "3_STAR",
+    "address": "Indiranagar, Bangalore",
+    "roomType": "Executive Room",
+    "pricePerNight": 6200.00,
+    "availableRooms": 18,
+    "amenities": "WiFi, Breakfast, Parking"
+  },
+
+  {
+    "hotelId": "HTL010",
+    "hotelName": "Hyderabad Grand Palace",
+    "city": "Hyderabad",
+    "category": "5_STAR",
+    "address": "Banjara Hills, Hyderabad",
+    "roomType": "Deluxe Room",
+    "pricePerNight": 12000.00,
+    "availableRooms": 7,
+    "amenities": "WiFi, Breakfast, Gym, Pool, Spa"
+  },
+  {
+    "hotelId": "HTL011",
+    "hotelName": "Hyderabad Business Hotel",
+    "city": "Hyderabad",
+    "category": "4_STAR",
+    "address": "Hitech City, Hyderabad",
+    "roomType": "Executive Room",
+    "pricePerNight": 7800.00,
+    "availableRooms": 13,
+    "amenities": "WiFi, Breakfast, Gym, Business Center"
+  },
+  {
+    "hotelId": "HTL012",
+    "hotelName": "Hyderabad City Stay",
+    "city": "Hyderabad",
+    "category": "2_STAR",
+    "address": "Ameerpet, Hyderabad",
+    "roomType": "Standard Room",
+    "pricePerNight": 3800.00,
+    "availableRooms": 22,
+    "amenities": "WiFi, Breakfast, Parking"
+  },
+
+  {
+    "hotelId": "HTL013",
+    "hotelName": "Chennai Marina Hotel",
+    "city": "Chennai",
+    "category": "5_STAR",
+    "address": "T Nagar, Chennai",
+    "roomType": "Deluxe Room",
+    "pricePerNight": 11000.00,
+    "availableRooms": 8,
+    "amenities": "WiFi, Breakfast, Gym, Pool, Business Center"
+  },
+  {
+    "hotelId": "HTL014",
+    "hotelName": "Chennai Corporate Inn",
+    "city": "Chennai",
+    "category": "4_STAR",
+    "address": "Guindy, Chennai",
+    "roomType": "Executive Room",
+    "pricePerNight": 7200.00,
+    "availableRooms": 16,
+    "amenities": "WiFi, Breakfast, Gym, Conference Room"
+  },
+  {
+    "hotelId": "HTL015",
+    "hotelName": "Chennai Comfort Stay",
+    "city": "Chennai",
+    "category": "3_STAR",
+    "address": "Egmore, Chennai",
+    "roomType": "Standard Room",
+    "pricePerNight": 4800.00,
+    "availableRooms": 20,
+    "amenities": "WiFi, Breakfast, Parking"
+  },
+
+  {
+    "hotelId": "HTL016",
+    "hotelName": "Kolkata Royal Hotel",
+    "city": "Kolkata",
+    "category": "5_STAR",
+    "address": "Park Street, Kolkata",
+    "roomType": "Deluxe Room",
+    "pricePerNight": 10500.00,
+    "availableRooms": 6,
+    "amenities": "WiFi, Breakfast, Gym, Pool, Business Center"
+  },
+  {
+    "hotelId": "HTL017",
+    "hotelName": "Kolkata Business Inn",
+    "city": "Kolkata",
+    "category": "4_STAR",
+    "address": "Salt Lake, Kolkata",
+    "roomType": "Executive Room",
+    "pricePerNight": 6800.00,
+    "availableRooms": 12,
+    "amenities": "WiFi, Breakfast, Gym, Conference Room"
+  },
+  {
+    "hotelId": "HTL018",
+    "hotelName": "Kolkata City Comfort",
+    "city": "Kolkata",
+    "category": "2_STAR",
+    "address": "New Town, Kolkata",
+    "roomType": "Standard Room",
+    "pricePerNight": 3500.00,
+    "availableRooms": 19,
+    "amenities": "WiFi, Breakfast, Parking"
+  },
+
+  {
+    "hotelId": "HTL019",
+    "hotelName": "Ahmedabad Grand Hotel",
+    "city": "Ahmedabad",
+    "category": "5_STAR",
+    "address": "SG Highway, Ahmedabad",
+    "roomType": "Deluxe Room",
+    "pricePerNight": 9800.00,
+    "availableRooms": 10,
+    "amenities": "WiFi, Breakfast, Gym, Pool, Business Center"
+  },
+  {
+    "hotelId": "HTL020",
+    "hotelName": "Ahmedabad Business Suites",
+    "city": "Ahmedabad",
+    "category": "4_STAR",
+    "address": "Prahlad Nagar, Ahmedabad",
+    "roomType": "Executive Room",
+    "pricePerNight": 6500.00,
+    "availableRooms": 15,
+    "amenities": "WiFi, Breakfast, Gym, Conference Room"
+  },
+  {
+    "hotelId": "HTL021",
+    "hotelName": "Ahmedabad Comfort Hotel",
+    "city": "Ahmedabad",
+    "category": "3_STAR",
+    "address": "Navrangpura, Ahmedabad",
+    "roomType": "Standard Room",
+    "pricePerNight": 4200.00,
+    "availableRooms": 21,
+    "amenities": "WiFi, Breakfast, Parking"
+  },
+
+  {
+    "hotelId": "HTL022",
+    "hotelName": "Jaipur Palace Hotel",
+    "city": "Jaipur",
+    "category": "5_STAR",
+    "address": "C Scheme, Jaipur",
+    "roomType": "Deluxe Room",
+    "pricePerNight": 11500.00,
+    "availableRooms": 7,
+    "amenities": "WiFi, Breakfast, Gym, Pool, Spa"
+  },
+  {
+    "hotelId": "HTL023",
+    "hotelName": "Jaipur Business Inn",
+    "city": "Jaipur",
+    "category": "4_STAR",
+    "address": "Malviya Nagar, Jaipur",
+    "roomType": "Executive Room",
+    "pricePerNight": 7000.00,
+    "availableRooms": 13,
+    "amenities": "WiFi, Breakfast, Gym, Business Center"
+  },
+  {
+    "hotelId": "HTL024",
+    "hotelName": "Jaipur City Comfort",
+    "city": "Jaipur",
+    "category": "3_STAR",
+    "address": "Vaishali Nagar, Jaipur",
+    "roomType": "Standard Room",
+    "pricePerNight": 4500.00,
+    "availableRooms": 17,
+    "amenities": "WiFi, Breakfast, Parking"
+  },
+
+  {
+    "hotelId": "HTL025",
+    "hotelName": "Goa Beach Resort",
+    "city": "Goa",
+    "category": "5_STAR",
+    "address": "Candolim, Goa",
+    "roomType": "Deluxe Room",
+    "pricePerNight": 15000.00,
+    "availableRooms": 5,
+    "amenities": "WiFi, Breakfast, Gym, Pool, Beach Access"
+  },
+  {
+    "hotelId": "HTL026",
+    "hotelName": "Goa Business Resort",
+    "city": "Goa",
+    "category": "4_STAR",
+    "address": "Panaji, Goa",
+    "roomType": "Premium Room",
+    "pricePerNight": 8500.00,
+    "availableRooms": 11,
+    "amenities": "WiFi, Breakfast, Pool, Business Center"
+  },
+  {
+    "hotelId": "HTL027",
+    "hotelName": "Goa Comfort Stay",
+    "city": "Goa",
+    "category": "3_STAR",
+    "address": "Calangute, Goa",
+    "roomType": "Standard Room",
+    "pricePerNight": 5200.00,
+    "availableRooms": 16,
+    "amenities": "WiFi, Breakfast, Parking, Pool"
+  },
+
+  {
+    "hotelId": "HTL028",
+    "hotelName": "Noida Corporate Grand",
+    "city": "Noida",
+    "category": "5_STAR",
+    "address": "Sector 18, Noida",
+    "roomType": "Deluxe Room",
+    "pricePerNight": 10500.00,
+    "availableRooms": 9,
+    "amenities": "WiFi, Breakfast, Gym, Pool, Business Center"
+  },
+  {
+    "hotelId": "HTL029",
+    "hotelName": "Noida Business Hotel",
+    "city": "Noida",
+    "category": "4_STAR",
+    "address": "Sector 62, Noida",
+    "roomType": "Executive Room",
+    "pricePerNight": 7000.00,
+    "availableRooms": 14,
+    "amenities": "WiFi, Breakfast, Gym, Conference Room"
+  },
+  {
+    "hotelId": "HTL030",
+    "hotelName": "Noida City Comfort",
+    "city": "Noida",
+    "category": "3_STAR",
+    "address": "Sector 15, Noida",
+    "roomType": "Standard Room",
+    "pricePerNight": 4500.00,
+    "availableRooms": 20,
+    "amenities": "WiFi, Breakfast, Parking"
+  }
+]
